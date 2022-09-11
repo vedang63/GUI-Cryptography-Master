@@ -1,0 +1,17 @@
+# Ignore Mac system files
+.DS_store
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore Vscode config files
+.vscode
+
+# Ignore logs
+logs/*
+*.log
+
+# Ignore config file
+*.yml
