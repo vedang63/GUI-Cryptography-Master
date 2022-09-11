@@ -1,4 +1,4 @@
-![Alt text](design/splash_screen.png)
+![splash_screen](https://user-images.githubusercontent.com/113290497/189529847-d53e53a1-3da7-4a68-bcab-a1ae72220f1f.png)
 
 A Simple visualisation for basic string cryptography algorithms.
 
